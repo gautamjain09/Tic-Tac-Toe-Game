@@ -10,8 +10,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity
-{
+public class MainActivity extends AppCompatActivity {
     ImageView button1,button2,button3,button4,button5,button6,button7,button8,button9;
 
     private String startGame = "X";
